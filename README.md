@@ -1,5 +1,5 @@
 # CPE352-Data-Science (1/2021) 💻📄
-Lecture and Lab of CPE352 Data Science (1/2021)
+Lecture, Lab and Project of CPE352 Data Science (1/2021)
 
 <b>Instructor:</b> Asst. Prof. Dr. Santitham Prom-on
 
