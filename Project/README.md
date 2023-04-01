@@ -4,6 +4,6 @@ Project นี้เป็นส่วนหนึ่งของรายวิ
 
 <b>จัดทำโดย:</b>
 - [Papin Thanutchapat](https://github.com/Jappapin)
-- Piyatida Meesatean
+- [Piyatida Meesatean](https://github.com/Piyati)
 - [Chiraphat Phoncharoenwirote](https://github.com/Chiraphatt)
 - [Ornrakorn Mekchaiporn](https://github.com/mill-ornrakorn)
